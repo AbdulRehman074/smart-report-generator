@@ -60,7 +60,7 @@ This mini-project demonstrates how **AI & Data Science** techniques can be appli
 ---
 
 ## 🖼 Example Preview
-*(Optional – Add a screenshot of the PDF report here)*  
+ 
 ![Report Preview](images/report_preview.png)
 
 ---
