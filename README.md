@@ -61,7 +61,7 @@ This mini-project demonstrates how **AI & Data Science** techniques can be appli
 
 ## 🖼 Example Preview
  
-![Report Preview](images/report_preview.png)
+![Report Preview](https://github.com/AbdulRehman074/smart-report-generator/blob/main/smart_report%20(5)%20(1).pdf)
 
 ---
 
